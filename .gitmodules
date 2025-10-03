@@ -21,3 +21,4 @@
 [submodule "MS/json-server/json-server"]
 	url = https://github.com/Rangulo160503/json-server.git
 	branch = main
+	path = MS/json-server/json-server

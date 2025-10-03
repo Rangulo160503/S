@@ -14,3 +14,7 @@
 	path = ITSFinal
 	url = https://github.com/Rangulo160503/ITS-CR-Artillery.git
 	branch = main
+[submodule "ITS-MVC/Inventario"]
+	path = ITS-MVC/Inventario
+	url = https://github.com/Rangulo160503/ITS-CR-Artillery.git
+	branch = inventario

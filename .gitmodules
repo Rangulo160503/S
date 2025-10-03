@@ -2,3 +2,7 @@
 	path = CEGA
 	url = https://github.com/Rangulo160503/Martes.git
 	branch = inclusion
+[submodule "HR"]
+	path = HR
+	url = https://github.com/Rangulo160503/HR-Beneficios.git
+	branch = main

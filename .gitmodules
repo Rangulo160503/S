@@ -10,3 +10,11 @@
 	path = ITS
 	url = https://github.com/Rangulo160503/ITS-CR-Artillery.git
 	branch = main
+[submodule "ITS_Excel/Beneficios"]
+	path = ITS_Excel/Beneficios
+	url = https://github.com/SC-701/proyecto-grupobraynerpaw.git
+	branch = main
+[submodule "ITSFinal"]
+	path = ITSFinal
+	url = https://github.com/Rangulo160503/ITS-CR-Artillery.git
+	branch = main

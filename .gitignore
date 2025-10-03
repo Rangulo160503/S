@@ -1,0 +1,13 @@
+﻿# === Build / IDE ===
+**/.vs/
+**/.vscode/
+MS/MSC#/**/bin/
+MS/MSC#/**/obj/
+MS/MSC++/*.exe
+
+# === Vendor pesado (no versionar) ===
+MS/stegseek-0.6/
+
+# === SO basura ===
+Thumbs.db
+*.DS_Store

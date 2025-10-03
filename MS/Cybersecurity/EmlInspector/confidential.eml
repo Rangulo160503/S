@@ -1,0 +1,32 @@
+From: support@portolegs.com
+To: johndoe@portolegs.com
+Subject: Important Security Update
+Date: Thu, 18 Jul 2024 00:18:15 -0800
+Message-ID:
+ <172129069507.6786.7709470675950223074@CTFCreationLab.myguest.virtualbox.org>
+X-Flag: UC8COnwi
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5295935612007414748=="
+
+--===============5295935612007414748==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear John Doe,
+
+We have detected unusual activity on your account and recommend you update yo=
+ur security settings. Please review the attached document for more details.
+
+Best regards,
+Support Team
+
+--===============5295935612007414748==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="security_update.txt"
+MIME-Version: 1.0
+
+SGVyZSBhcmUgdGhlIHVwZGF0ZXMgeW91IHJlcXVlc3RlZC4KCk5vIHNlbnNpdGl2ZSBpbmZvcm1h
+dGlvbiBpbiB0aGlzIGRvY3VtZW50Lgo=
+
+--===============5295935612007414748==--

@@ -1,0 +1,14 @@
+[+] Bits totales: 206360
+[+] offset_0.bin -> unknown (16B head: 65 73 74 65 20 74 65 78 74 6F 20 66 75 65 20 68)
+[+] offset_1.bin -> unknown (16B head: CA E6 E8 CA 40 E8 CA F0 E8 DE 40 CC EA CA 40 D0)
+[+] offset_2.bin -> unknown (16B head: 95 CD D1 94 81 D1 95 E1 D1 BC 81 99 D5 94 81 A1)
+[+] offset_3.bin -> unknown (16B head: 2B 9B A3 29 03 A3 2B C3 A3 79 03 33 AB 29 03 43)
+[+] offset_4.bin -> unknown (16B head: 57 37 46 52 07 46 57 87 46 F2 06 67 56 52 06 86)
+[+] offset_5.bin -> unknown (16B head: AE 6E 8C A4 0E 8C AF 0E 8D E4 0C CE AC A4 0D 0C)
+[+] offset_6.bin -> unknown (16B head: 5C DD 19 48 1D 19 5E 1D 1B C8 19 9D 59 48 1A 19)
+[+] offset_7.bin -> unknown (16B head: B9 BA 32 90 3A 32 BC 3A 37 90 33 3A B2 90 34 32)
+
+[!] No se detectaron flags directas aún. Revisa:
+    - readable_offset*_xor*.txt
+    - flag_b64_offset*_xor*.txt (si existen)
+    - offset_*.bin (mágicos: ZIP/PDF/PNG/JPG)

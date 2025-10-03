@@ -11,3 +11,9 @@ MS/stegseek-0.6/
 # === SO basura ===
 Thumbs.db
 *.DS_Store
+# === .NET builds (generales) ===
+**/bin/
+**/obj/
+*.dll
+*.pdb
+*.exe
